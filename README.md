@@ -1,8 +1,13 @@
                             
-# crone_primeira_pag_instagram_dio  
+# Recriando a Página Inicial do Instagram 
 
-Curso do Bootcamp HTML Web Developer da Digital Innovation One. Desenvolvedor de jogos JavaScript. Projeto: Recriando a página inicial do Instagram. Neste curso o desafio é reconstruir a página inicial de login do Instagram: nesse projeto, será abordado o conceito sobre CSS Flexbox e responsividade, preparando os alunos para aulas de jogos, nas quais serão usados ​​o CSS junto ao JavaScript para estilização e posicionamento .
+## Santander Bootcamp Fullstack Developer
 
+Projeto desafio de reconstruir a página de login do Instagram.
+Para isso, é recomendado o uso de CSS com Flexbox, uma das abordagens de posicionamento de elementos mais utilizadas quando se trata de responsividade. 
+Além disso, a expert disponibiliza todo o material necessário em seu GitHub para que você possa utilizá-lo como referência para a sua solução.
+## Ferramentas
+### CSS
+### Git
 
-![instagram](https://user-images.githubusercontent.com/66983974/118269252-e3816680-b494-11eb-9d2f-a15e15ac1f4d.png)
-![perfil-instagram](https://user-images.githubusercontent.com/66983974/118269379-0dd32400-b495-11eb-876e-29844b420af9.jpg)
+![Design sem nome (2)](https://user-images.githubusercontent.com/117128219/204159536-a16be900-2296-4637-98a7-e99486231d1a.gif)
